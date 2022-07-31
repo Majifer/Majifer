@@ -6,12 +6,13 @@ I´m a junior dev student currently studying at Factoria F5 Bootcamp of Fullstac
 [3 Months of 6 six completed!]
 I decided to change my focus from the game industry as an 3D modeller, Concept Artist and Indie Developer to this new field.
 <br/>
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=your-github-majifer&color=green)
 
 <!--
 **Majifer/Majifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my own develop discovering tools to create!
