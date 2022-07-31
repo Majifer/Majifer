@@ -7,7 +7,9 @@ I´m a junior dev student currently studying at Factoria F5 Bootcamp of Fullstac
 I decided to change my focus from the game industry as an 3D modeller, Concept Artist and Indie Developer to this new field.
 <br/>
 <br/>
+<div>
 
+</div>
 ![](https://komarev.com/ghpvc/?username=your-github-majifer&color=green)
 
 <!--
